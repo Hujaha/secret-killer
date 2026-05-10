@@ -2,14 +2,8 @@
 
 UI: Rayfield. Игра: Secret Killer (Monster Nova Studios).
 
-## Загрузчики
+## Загрузчик
 
-**Обфусцированная версия (рекомендуется):**
-```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Hujaha/secret-killer/main/secretkiller_obf.lua"))()
-```
-
-**Исходник (для отладки):**
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Hujaha/secret-killer/main/secretkiller.lua"))()
 ```
@@ -30,4 +24,3 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Hujaha/secret-killer/
 | Combat | Fling power slider, кнопки выброса монстра/шерифа/обоих |
 | Farm | Auto-grab toggle + grab radius |
 | Misc | Rejoin, Server Hop |
-
